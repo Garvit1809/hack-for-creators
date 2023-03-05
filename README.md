@@ -1,6 +1,6 @@
 # hack-for-creators
 
-# DeepSeaSider
+# Creatify
 
 ## 💡 Inspiration
 
@@ -20,13 +20,12 @@ Our web app Creatify is built with features:
 
 ## ⚙️ How we built it
 
-- Frontend: Wix and Wix API
-- Backend: Win Inbuilt Database
-- AI API:- Open AI (for generating ideas and images)
+- Frontend :- Wix and Wix API
+- Backend :- Win Inbuilt Database
+- AI :- Open AI API (for generating ideas and images)
+- Auth0 :- For Google Authentication
 
 ## 🌐 Best Use of Velo by Wix
-
-I have to use Velo by Wix to create a website. With Wix Velo, a full-stack development platform, you can create a website without knowing any code. It is a fantastic tool for both experienced developers who want to construct a website quickly and newbies who want to learn how to code. I am using the following features of Velo by Wix:
 
 - **Wix Code**: Helps to add some custom code for implementing the backend and AR for the page.
 - **Wix Data**: It may be used to both save data in a database and retrieve data from one.
@@ -34,30 +33,22 @@ I have to use Velo by Wix to create a website. With Wix Velo, a full-stack devel
 - **Wix SEO**: I'm using Wix SEO to give the website SEO capability, and we can also use it to give the store SEO functionality.
 - **Wix Users**: We may use it to add useful functionality to the store in addition to adding useful functionality to the website.
 
-<!-- ## ☁ Best Use of Microsoft Cloud for Your Community
-
-I am using Microsoft Azure to train my ML model to find out the specie of animals. I am training my model with Azure Notebooks. My dataset is kept in Azure Blob Storage. I am obtaining the user's image using Azure Cognitive Services. My model was really simple to deploy and train thanks to Microsoft Azure. -->
-
 ## 🧠 Challenges we ran into
 
-- Completing the project was a challenge because we had to implement the project by a deadline.
-- It was my first time building a backend with Node Js, and learning how to use it with Wix Code.
-- It was a bit difficult to implement the Three Js and connect it with Wix Code.
+- All 4 of our team members were new to Velo by Wix, so it was very difficult working on it and had to learn first before implementing anything.
+- We also hadnt used the OpenAI API before, so we were not familiar with that as well. We only had played woth the GPT not with the API😂
+- Using the Wix internal API's also took a lot of time, querying the database, linking and mapping the data from the database.
 
 ## 🏅 Accomplishments that we're proud of
 
-- We are proud of the fact that we were able to complete the project in the given time.
-- We are proud of the fact that we were able to implement the AR feature in the project.
-<!-- - We are proud of the fact that we were able to build a custom backend with Azure for the web app. -->
+- We managed to create a full stack application within 36 hrs which is the fastest we have built anu website.
+- We learnt 
 
 ## 📖 What we learned
 
-<!-- - How to train a model in Azure. -->
-- Managing and handling the backend for Wix.
-- How to use Three Js with Wix Code.
+- We learned to create a full stack website on Wix editor, managing Wix Database and linking and mapping dataset to UI quickly. 
+- We also successfully integrated OpenAI API in WIx generating text and images.
 
-## 🚀 What's next for DeepSeaSider
+## 🚀 What's next for Creatify
 
-- Building a mobile app.
-- Creating my ML model.
-- Adding more features.
+- 
