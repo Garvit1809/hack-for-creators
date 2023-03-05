@@ -2,7 +2,7 @@
 
 ## 💡 Inspiration
 
-We have to build a site where people can not only know about the sea animals but also view and interact with the 3D models and imitate them in the real world using AR (Augmented Reality) technology.
+Many times Content Creators struggle at getting sponsorship especially the small content creators. So we decided to create a single application where brands and content creators from different platforms would gather, making it really easy for both of them to approach each other.
 
 ## 💻 What it does
 
