@@ -1,5 +1,3 @@
-# hack-for-creators
-
 # Creatify
 
 ## 💡 Inspiration
@@ -38,6 +36,7 @@ Our web app Creatify is built with features:
 - All 4 of our team members were new to Velo by Wix, so it was very difficult working on it and had to learn first before implementing anything.
 - We also hadnt used the OpenAI API before, so we were not familiar with that as well. We only had played woth the GPT not with the API😂
 - Using the Wix internal API's also took a lot of time, querying the database, linking and mapping the data from the database.
+- 2 of our Team Members were new to hackathons so the other two had to guide them all along but their first experience was really smooth.
 
 ## 🏅 Accomplishments that we're proud of
 
@@ -51,4 +50,5 @@ Our web app Creatify is built with features:
 
 ## 🚀 What's next for Creatify
 
-- 
+- In future, we are thinking of adding audience or normal users introducing features live events.
+- We'll also monetize the work done by content creators on our application
