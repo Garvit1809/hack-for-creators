@@ -8,20 +8,21 @@ We have to build a site where people can not only know about the sea animals but
 
 ## 💻 What it does
 
-Our web app DeepSeaSider is built with features:
+Our web app Creatify is built with features:
 
-- Learn about various clean-up drives and register to volunteer in them.
-- Read blogs about the importance of keeping seas clean and buying items in our store to support the cause.
-- After selecting the sea animal user can interact with the 3D model by changing its orientation or zooming in or out.
-- Users can explore more about the sea animal by clicking on it, such as if you click on the fin of the shark it will give a short description of that
-- Users can also view all the sea animals in AR (Augmented Reality).
+- It is a marketplace for Content creator and sponsors or brands.
+- Content Creators can approach the brands they prefer or would like to collaborate
+- Brands can look for Content Creators from different platforms at a single place for their marketing and collaboration
+- Brands | Sponsors can get meaningful data about all the creators like total views, monthly views, followers at a same place.
+- Brands can also filter creators acccording to their field of work. (filtering creators on the basis of their work like fitness, teaching, gaming etc)
+- Content Creators can also look for AI generated ideas and funky images if they are not able to produce meaningful ideas
+- We have also a focused accessory store for Content Creators from which they can buy items needed in Content Creation
 
 ## ⚙️ How we built it
 
-<!-- - ML: Microsoft Cloud(Azure) -->
-- Frontend: Wix and Next Js
-- Backend: Node Js
-- Three Js: Rendering 3D models
+- Frontend: Wix and Wix API
+- Backend: Win Inbuilt Database
+- AI API:- Open AI (for generating ideas and images)
 
 ## 🌐 Best Use of Velo by Wix
 
